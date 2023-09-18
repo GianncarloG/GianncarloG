@@ -1,5 +1,22 @@
-<h1>Hi there! :cowboy_hat_face:
+# Howdy ! :cowboy_hat_face: I'm Gianncarlo Giannattasio
 
+Welcome to my Github Page! 😄
+
+I'm a Husband, Tech Enthusiast, Cloud Engineer and new Parent! I work in all things :cloud: cloud.
+
+## My Tech Stack
+
+* AWS
+* GCP
+* Azure
+* Terrafrom
+* Python
+* Cloud Cusotidan
+* Jenkins
+* Github 
+
+<!-- Stats Section -->
+<!-- Where to reach me Section -->
 <!--
 **GianncarloG/GianncarloG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
