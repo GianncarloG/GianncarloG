@@ -20,6 +20,8 @@ I'm a :couple: Husband, :family_man_woman_boy: Parent, :dog: Dog Owner, :technol
 <a href="https://github.com/cloud-custodian/cloud-custodian"><img src="https://cloudcustodian.io/img/logo_capone_devex_cloud_custodian.svg" alt="Cloud Custodian" width="25px" height="25px"/></a>
 
 <!-- Stats Section -->
+[![Visits Badge](https://badges.pufler.dev/visits/GianncarloG/GianncarloG)](https://badges.pufler.dev)
+<!-- [![Gianncarlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GianncarloG)](https://github.com/GianncarloG/github-readme-stats) -->
 <!-- Where to reach me Section -->
 <!--
 **GianncarloG/GianncarloG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
