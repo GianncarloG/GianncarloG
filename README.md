@@ -2,7 +2,7 @@
 
 Welcome to my Github Page! 😄
 
-I'm a :couple: Husband, :family_man_woman_boy: Parent, :technologist: Tech Enthusiast, and :sun_behind_large_cloud: Compute Engineer! I work in all things :cloud: cloud.
+I'm a :couple: Husband, :family_man_woman_boy: Parent, :dog: Dog Owner, :technologist: Tech Enthusiast, and :sun_behind_large_cloud: Compute Engineer! I work in all things :cloud: cloud.
 
 ## My Tech Stack
 
