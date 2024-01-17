@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- 2014 Learning Goals -->
-## My 2014 Learnign Goals
+## My 2014 Learning Goals
 
 ```cli
 Legend
