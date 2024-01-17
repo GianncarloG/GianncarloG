@@ -52,7 +52,7 @@ Legend
 ### Technology
 
 - [✓] JavaScript
-- [ ] AZ900 (Azure)
+- [⌾] AZ900 (Azure)
 - [ ] Google Associate Cloud Engineer (GCP)
 - [ ] AI900 (Azure)
 - [ ] Kubernetes
