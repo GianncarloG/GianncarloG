@@ -58,6 +58,8 @@ Technology
 - [ ] Kubernetes
 - [ ] Docker
 - [⌾] DevOps
+- [ ] GitHub Foundations Certification
+- [ ] GitHub Actions Certification
 ```
 
 ```cli
