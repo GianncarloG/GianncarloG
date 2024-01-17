@@ -49,7 +49,7 @@ Legend
 ```
 
 ```cli
-### Technology
+Technology
 
 - [✓] JavaScript
 - [⌾] AZ900 (Azure)
@@ -61,7 +61,7 @@ Legend
 ```
 
 ```cli
-### Soft Skills
+Soft Skills
 
 - [ ] Blogging
 - [ ] Video Creation
