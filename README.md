@@ -37,3 +37,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- 2014 Learning Goals -->
+## My 2014 Learnign Goals
+
+```cli
+Legend
+✓✓: Completed (Cert/Mastered)
+✓: Completed (Beginner)
+⌾: In Progress
+```
+
+```cli
+### Technology
+
+- [✓] JavaScript
+- [ ] AZ900 (Azure)
+- [ ] Google Associate Cloud Engineer (GCP)
+- [ ] AI900 (Azure)
+- [ ] Kubernetes
+- [ ] Docker
+- [⌾] DevOps
+```
+
+```cli
+### Soft Skills
+
+- [ ] Blogging
+- [ ] Video Creation
+- [ ] Presentation Skills
+```
